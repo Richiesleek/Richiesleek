@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Richiesleek
 - 👀 I’m interested in DevuOps
 - 🌱 I’m currently learning Azure foundation & AWS Cloud practitioner
-- 💞️ I’m looking to collaborate on Experts to build my caree
+- 💞️ I’m looking to collaborate on Experts to build my career
 - 📫 How to reach me royadina@gmail.com
 
 <!---
